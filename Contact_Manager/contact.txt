@@ -1,0 +1,30 @@
+Name: Aashutosh Thapa
+Address: Baneshwor
+Number: 59693862
+Name: Deependra Thapa
+Address: Baneshwor
+Number: 293737290
+Name: Bal Bahadur Thapa
+Address: Baneshwor
+Number: 154826294725
+Name: China Kumari Thapa
+Address: Baneshwor
+Number: 66342739473
+Name: Prajesh Baral
+Address: Imadol
+Number: 917263547
+Name: Prava Khadka
+Address: Baneshwor
+Number: 736364548
+Name: Luyash Thapa
+Address: Baneshwor
+Number: 63749462826
+Name: Ashowk Fitness
+Address: UK 
+Number: 6799876
+Name: Prasil Adhikari
+Address: Shantinagar
+Number: 9876509876
+Name: Suyog Pant
+Address: baneshwor
+Number: 9876799898
