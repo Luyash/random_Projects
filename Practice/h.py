@@ -1,1 +1,1 @@
-print(int("1111", 3))
+print("Hello world")
